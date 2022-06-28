@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://masriomarm.github.io"
 languageCode = "en-US"
 title = "Omar Elmasri"
 # Enable comments by entering your Disqus shortname
@@ -17,7 +17,7 @@ theme = "hugo-sustain"
 [params.social]
   Github        = "masriomarm"
   Email         = "masri.omarm@gmail.com"
-  Twitter       = "masriomarm"
+#  Twitter       = "masriomarm"
   LinkedIn      = "masriomarm"
 #  Stackoverflow = "masriomarm"
 #  Medium        = "masriomarm"
