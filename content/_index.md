@@ -1,9 +1,9 @@
 ---
 ---
 
-I'm **Omar Elmasri**, a Software Engineer.
+I'm **Omar Elmasri**, an Embedded Software Engineer.
 
-I love all things computer science and maths.
+I love Control systems engineering and working with hardware.
 
 Have a look at some of my working [projects].
 
